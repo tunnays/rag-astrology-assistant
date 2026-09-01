@@ -1,0 +1,419 @@
+Koç Burcu: 21 Mart - 19 Nisan arasını kapsar. Elementi Ateş, yönetici gezegeni Mars'tır. Koç erkeği girişken, rekabetçi ve hızlı karar alan bir yapıya sahiptir; liderlik etmeyi sever ve doğrudan konuşur. Koç kadını bağımsız, cesur ve tutkuludur; kendi yolunu çizmekten çekinmez. Genel olarak Koçlar enerjik ve maceracıdır. En uyumlu burçlar: Aslan, Yay ve İkizler.
+
+Boğa Burcu: 20 Nisan - 20 Mayıs arasını kapsar. Elementi Toprak, yönetici gezegeni Venüs'tür. Boğa erkeği sabırlı, güvenilir ve konfor düşkünüdür; kararlarını yavaş ama sağlam alır. Boğa kadını şefkatli, sadık ve estetik zevki yüksektir; güvenlik ve istikrara önem verir. Genel olarak Boğalar kararlı ve dirençlidir. En uyumlu burçlar: Başak, Oğlak ve Yengeç.
+
+İkizler Burcu: 21 Mayıs - 20 Haziran arasını kapsar. Elementi Hava, yönetici gezegeni Merkür'dür. İkizler erkeği zeki, meraklı ve sohbeti sever; fikir değiştirmekten çekinmez. İkizler kadını esprili, çok yönlü ve sosyaldir; yeniliklere açıktır. Genel olarak İkizler uyum sağlayan ve iletişimi güçlü kişilerdir. En uyumlu burçlar: Terazi, Kova ve Koç.
+
+Yengeç Burcu: 21 Haziran - 22 Temmuz arasını kapsar. Elementi Su, yönetici gezegeni Ay'dır. Yengeç erkeği koruyucu, duygusal ve aileye bağlıdır; sevdiklerini kollar. Yengeç kadını hassas, sezgisel ve şefkatlidir; ev ve yakın ilişkilere değer verir. Genel olarak Yengeçler derin duygusal bağlar kurar. En uyumlu burçlar: Akrep, Balık ve Boğa.
+
+Aslan Burcu: 23 Temmuz - 22 Ağustos arasını kapsar. Elementi Ateş, yönetici gezegeni Güneş'tir. Aslan erkeği kendine güvenen, cömert ve doğal bir liderdir; ilgi görmekten hoşlanır. Aslan kadını karizmatik, sadık ve yaratıcıdır; sahne ışığında rahat eder. Genel olarak Aslanlar sıcakkanlı ve gururludur. En uyumlu burçlar: Koç, Yay ve İkizler.
+
+Başak Burcu: 23 Ağustos - 22 Eylül arasını kapsar. Elementi Toprak, yönetici gezegeni Merkür'dür. Başak erkeği analitik, düzenli ve mükemmeliyetçidir; detaylara takılır. Başak kadını pratik, yardımsever ve titizdir; sorumluluk almayı sever. Genel olarak Başaklar güvenilir ve çalışkandır. En uyumlu burçlar: Boğa, Oğlak ve Yengeç.
+
+Terazi Burcu: 23 Eylül - 22 Ekim arasını kapsar. Elementi Hava, yönetici gezegeni Venüs'tür. Terazi erkeği diplomatik, centilmen ve estetik odaklıdır; çatışmadan kaçınır. Terazi kadını zarif, sosyal ve adaletli davranır; ilişkilerde denge arar. Genel olarak Teraziler uyumlu ve barışçıldır. En uyumlu burçlar: İkizler, Kova ve Aslan.
+
+Akrep Burcu: 23 Ekim - 21 Kasım arasını kapsar. Elementi Su, yönetici gezegeni Plüton'dur (geleneksel olarak Mars). Akrep erkeği tutkulu, gizemli ve kararlıdır; derin bağlılık gösterir. Akrep kadını güçlü, sezgisel ve sadıktır; yüzeysel ilişkilerden hoşlanmaz. Genel olarak Akrepler yoğun duygusal dünyaya sahiptir. En uyumlu burçlar: Yengeç, Balık ve Başak.
+
+Yay Burcu: 22 Kasım - 21 Aralık arasını kapsar. Elementi Ateş, yönetici gezegeni Jüpiter'dir. Yay erkeği maceracı, özgür ruhlu ve iyimserdir; bağlanmaktan çok keşfetmeyi sever. Yay kadını dürüst, enerjik ve felsefi düşünceye açıktır; seyahat ve öğrenmeye düşkündür. Genel olarak Yaylar iyimser ve girişkendir. En uyumlu burçlar: Koç, Aslan ve Terazi.
+
+Oğlak Burcu: 22 Aralık - 19 Ocak arasını kapsar. Elementi Toprak, yönetici gezegeni Satürn'dür. Oğlak erkeği hırslı, disiplinli ve sorumluluk sahibidir; kariyerine odaklanır. Oğlak kadını kararlı, sabırlı ve pratik düşünür; uzun vadeli hedefler kurar. Genel olarak Oğlaklar güvenilir ve azimlidir. En uyumlu burçlar: Boğa, Başak ve Akrep.
+
+Kova Burcu: 20 Ocak - 18 Şubat arasını kapsar. Elementi Hava, yönetici gezegeni Uranüs'tür (geleneksel olarak Satürn). Kova erkeği bağımsız, özgün ve yenilikçidir; kalıplara sığmaz. Kova kadını entelektüel, insancıl ve toplumsal konulara duyarlıdır; farklı fikirlere açıktır. Genel olarak Kovalar özgürlükçü ve yaratıcıdır. En uyumlu burçlar: İkizler, Terazi ve Yay.
+
+Balık Burcu: 19 Şubat - 20 Mart arasını kapsar. Elementi Su, yönetici gezegeni Neptün'dür (geleneksel olarak Jüpiter). Balık erkeği hayalperest, duygusal ve sanatsaldır; empati yeteneği yüksektir. Balık kadını şefkatli, sezgisel ve fedakârdır; ruhani konulara ilgi duyar. Genel olarak Balıklar hassas ve yaratıcıdır. En uyumlu burçlar: Yengeç, Akrep ve Oğlak.
+
+Koç Yükselen: Koç yükselen erkeği ilk izlenimde enerjik, atılgan ve rekabetçi görünür; hızlı hareket eder ve doğrudan konuşur. Koç yükselen kadını dışa dönük, cesur ve bağımsız bir hava verir; girişkenliğiyle dikkat çeker. Genel olarak Koç yükselenler çevrelerine güçlü ve dinamik bir enerji yayar.
+
+Boğa Yükselen: Boğa yükselen erkeği sakin, güvenilir ve zevk sahibi bir izlenim bırakır; telaşsız davranışıyla tanınır. Boğa yükselen kadını sıcak, şefkatli ve estetik bir duruşa sahiptir; huzurlu bir hava taşır. Genel olarak Boğa yükselenler istikrarlı ve rahat görünür.
+
+İkizler Yükselen: İkizler yükselen erkeği konuşkan, meraklı ve esprili bir ilk izlenim verir; sosyal ortamlarda rahat hareket eder. İkizler yükselen kadını canlı, zeki ve değişken bir enerjiye sahiptir; ilgi çekici sohbetleriyle öne çıkar. Genel olarak İkizler yükselenler hareketli ve genç bir hava taşır.
+
+Yengeç Yükselen: Yengeç yükselen erkeği duygusal, koruyucu ve biraz çekingen bir izlenim bırakır; yakınlık kurmadan önce temkinlidir. Yengeç yükselen kadını nazik, hassas ve şefkatli bir duruş sergiler; bakımseverliğiyle tanınır. Genel olarak Yengeç yükselenler sıcak ama ilk başta mesafeli görünebilir.
+
+Aslan Yükselen: Aslan yükselen erkeği kendinden emin, karizmatik ve dikkat çekici bir hava taşır; liderlik enerjisi hemen fark edilir. Aslan yükselen kadını gösterişli, sıcakkanlı ve özgüvenli bir izlenim verir; sahne ışığını sever. Genel olarak Aslan yükselenler parlak ve iddialı bir duruş sergiler.
+
+Başak Yükselen: Başak yükselen erkeği düzenli, temkinli ve analitik bir ilk izlenim bırakır; detaylara dikkat eder. Başak yükselen kadını zarif, titiz ve mütevazı bir hava taşır; sadelik içinde şıklık sergiler. Genel olarak Başak yükselenler ölçülü ve güvenilir görünür.
+
+Terazi Yükselen: Terazi yükselen erkeği kibar, çekici ve dengeli bir izlenim bırakır; uyum arayan bir tavrı vardır. Terazi yükselen kadını zarif, sosyal ve estetik bir duruşa sahiptir; kolayca sempati toplar. Genel olarak Terazi yükselenler hoş ve dengeli bir hava taşır.
+
+Akrep Yükselen: Akrep yükselen erkeği gizemli, yoğun ve keskin bakışlı bir izlenim bırakır; derinlik hissettirir. Akrep yükselen kadını güçlü, çekici ve gizemli bir enerjiye sahiptir; kolay çözülmeyen bir hava taşır. Genel olarak Akrep yükselenler etkileyici ve derin görünür.
+
+Yay Yükselen: Yay yükselen erkeği neşeli, maceracı ve özgür bir ilk izlenim bırakır; rahat ve pozitif bir tavrı vardır. Yay yükselen kadını enerjik, iyimser ve dışa dönük bir hava taşır; seyahat ve keşif sevgisi hemen hissedilir. Genel olarak Yay yükselenler hareketli ve iyimser görünür.
+
+Oğlak Yükselen: Oğlak yükselen erkeği ciddi, disiplinli ve olgun bir izlenim bırakır; ilk bakışta mesafeli görünebilir. Oğlak yükselen kadını Oğlak yükselen kadını kararlı, profesyonel ve ölçülü bir duruş sergiler; güvenilirliğiyle öne çıkar. Genel olarak Oğlak yükselenler saygın ve temkinli bir hava taşır.
+
+Kova Yükselen: Kova yükselen erkeği özgün, sıra dışı ve bağımsız bir ilk izlenim bırakır; farklı bir tarzı vardır. Kova yükselen kadını entelektüel, yenilikçi ve arkadaş canlısı bir hava taşır; sıra dışı fikirleriyle dikkat çeker. Genel olarak Kova yükselenler özgün ve alışılmadık görünür.
+
+Balık Yükselen: Balık yükselen erkeği hayalperest, yumuşak ve duygusal bir izlenim bırakır; nazik bir enerji yayar. Balık yükselen kadını sezgisel, şefkatli ve romantik bir hava taşır; hassasiyetiyle dikkat çeker. Genel olarak Balık yükselenler yumuşak ve gizemli bir enerjiye sahiptir.
+
+Gezegenler
+
+Güneş: Doğum haritasında kişinin özünü, kimliğini ve yaşam amacını temsil eder. Ego, irade gücü ve temel karakter Güneş ile ifade edilir. Bulunduğu burç, kişinin genel karakter yapısını belirler.
+
+Ay: Duygusal dünyayı, iç güdüleri ve alışkanlıkları temsil eder. Kişinin güvende hissetmek için neye ihtiyaç duyduğunu ve duygusal tepkilerini gösterir. Anne figürü ve ev ile ilişkilendirilir.
+
+Merkür: İletişimi, düşünme biçimini ve öğrenme tarzını temsil eder. Konuşma, yazma ve mantık yürütme şekli Merkür'ün burcuna göre şekillenir. Zihinsel süreçleri yönetir.
+
+Venüs: Aşkı, estetiği ve değerleri temsil eder. Kişinin nelerden hoşlandığını, ilişkilerde neye önem verdiğini ve güzellik anlayışını gösterir. Para ve maddi zevkler ile de ilişkilidir.
+
+Mars: Enerjiyi, arzuyu ve harekete geçme biçimini temsil eder. Öfke, tutku ve rekabet gücü Mars ile ifade edilir. Kişinin nasıl savaştığını ve hedeflerine nasıl ulaştığını gösterir.
+
+Jüpiter: Genişlemeyi, şansı ve büyümeyi temsil eder. İnanç sistemi, felsefe ve iyimserlik Jüpiter ile ilişkilidir. Fırsatların ve bolluğun geldiği alanları gösterir.
+
+Satürn: Disiplini, sorumluluğu ve sınırları temsil eder. Kişinin hayatında zorluk yaşadığı ama zamanla ustalaştığı alanları gösterir. Olgunlaşma ve yapı kurma süreciyle ilişkilidir.
+
+Uranüs: Değişimi, özgürlüğü ve yenilikçiliği temsil eder. Ani olaylar, isyankarlık ve sıra dışı düşünce biçimi Uranüs ile ifade edilir. Kuşak etkisi taşıyan yavaş hareketli bir gezegendir.
+
+Neptün: Hayal gücünü, ruhaniliği ve illüzyonu temsil eder. Sanat, rüyalar ve belirsizlik Neptün ile ilişkilidir. Sınırların bulanıklaştığı, sezgisel alanları gösterir.
+
+Plüton: Dönüşümü, gücü ve yeniden doğuşu temsil eder. Derin değişim, kontrol ve yoğun duygusal süreçler Plüton ile ifade edilir. Kişinin hayatındaki köklü dönüşüm alanlarını gösterir.
+
+Astrolojik Evler
+
+1. Ev: Kişinin dış görünüşünü, ilk izlenimini ve kimliğini temsil eder. Yükselen burç bu evin başlangıcıdır. Bireyin dünyaya nasıl yaklaştığını gösterir.
+
+2. Ev: Maddi kaynakları, parayı ve kişisel değerleri temsil eder. Kişinin neye değer verdiğini ve gelir kazanma biçimini gösterir.
+
+3. Ev: İletişimi, kardeşleri ve yakın çevreyi temsil eder. Günlük konuşmalar, kısa yolculuklar ve öğrenme biçimiyle ilişkilidir.
+
+4. Ev: Aileyi, evi ve köke ait duygusal temelleri temsil eder. Kişinin geçmişini, aile ilişkilerini ve iç dünyasının temelini gösterir.
+
+5. Ev: Aşkı, yaratıcılığı ve eğlenceyi temsil eder. Romantik ilişkiler, çocuklar ve kişisel ifade biçimiyle ilişkilidir.
+
+6. Ev: Günlük rutinleri, sağlığı ve iş hayatını temsil eder. Çalışma alışkanlıkları, sağlık düzeni ve hizmet etme biçimini gösterir.
+
+7. Ev: Evliliği, ortaklıkları ve karşılıklı ilişkileri temsil eder. Kişinin başkalarıyla nasıl bir denge kurduğunu gösterir.
+
+8. Ev: Dönüşümü, paylaşılan kaynakları ve derin duygusal bağları temsil eder. Miras, ortak finans ve psikolojik derinlikle ilişkilidir.
+
+9. Ev: Felsefeyi, yüksek eğitimi ve uzak yolculukları temsil eder. İnanç sistemleri ve dünya görüşünü genişletme biçimini gösterir.
+
+10. Ev: Kariyeri, toplumsal statüyü ve hedefleri temsil eder. Kişinin dünyaya karşı sergilediği başarı ve sorumluluk alanını gösterir.
+
+11. Ev: Arkadaşlıkları, toplulukları ve gelecek hedeflerini temsil eder. Sosyal çevre ve kolektif projelerle ilişkilidir.
+
+12. Ev: Bilinçaltını, gizli konuları ve ruhsal süreçleri temsil eder. Kişinin görünmeyen, içsel dünyasını ve teslimiyet konularını gösterir.
+
+Gezegen Açıları
+
+Kavuşum (0 derece): İki gezegenin enerjilerinin birleştiği açıdır. Güçlü bir odaklanma yaratır, ancak hangi gezegenlerin bir araya geldiğine bağlı olarak hem destekleyici hem zorlayıcı olabilir.
+
+Sekstil (60 derece): Uyumlu ve destekleyici bir açıdır. Gezegenler arasında kolay bir enerji akışı sağlar, fırsatları değerlendirme yeteneğini artırır.
+
+Kare (90 derece): Gerilim ve zorluk yaratan bir açıdır. İki gezegen arasında çatışma olduğunu gösterir, ancak bu gerilim genellikle büyüme ve motivasyon kaynağı olur.
+
+Üçgen (120 derece): En uyumlu ve akıcı açılardan biridir. Gezegenler arasında doğal bir uyum ve yetenek yaratır, ancak bazen tembelliğe de yol açabilir.
+
+Karşıt (180 derece): İki gezegenin birbirine tam karşı konumlandığı açıdır. Denge arayışı ve kutuplaşma yaratır; genellikle ilişkiler yoluyla öğrenilen dersleri temsil eder.
+
+Koç Günlük Yorum: Bugün enerjiniz yüksek, yarım kalan işleri bitirmek için harekete geçebilirsiniz. Ani kararlar almadan önce bir kez daha düşünmekte fayda var.
+
+Koç Haftalık Yorum: Bu hafta iş hayatında rekabetçi bir ortamla karşılaşabilirsiniz, öne çıkmak için cesaretinizi kullanın. Hafta sonuna doğru fiziksel aktivite ruh halinizi olumlu etkileyecek.
+
+Koç Aylık Yorum: Bu ay yeni bir proje veya girişim için uygun bir dönem. Mars'ın etkisiyle motivasyonunuz artacak, ancak sabırsızlığa dikkat edin.
+
+Boğa Günlük Yorum: Bugün maddi konularda sağduyulu davranmak size avantaj sağlayacak. Küçük bir hediye veya güzel bir yemekle kendinizi ödüllendirebilirsiniz.
+
+Boğa Haftalık Yorum: Bu hafta ilişkilerinizde istikrar arayışı ön planda olacak. İş yerinde sabırlı çalışmanızın karşılığını almaya başlayabilirsiniz.
+
+Boğa Aylık Yorum: Bu ay finansal planlama yapmak için uygun bir zaman. Venüs'ün etkisiyle sosyal hayatınızda güzel gelişmeler yaşanabilir.
+
+İkizler Günlük Yorum: Bugün sosyal çevrenizde ilginç bir haber alabilirsiniz. İletişim kanallarınızı açık tutmanız fayda sağlayacak.
+
+İkizler Haftalık Yorum: Bu hafta birden fazla proje arasında geçiş yapmanız gerekebilir, önceliklendirme yapmayı unutmayın. Yeni insanlarla tanışma fırsatı doğabilir.
+
+İkizler Aylık Yorum: Bu ay öğrenme ve gelişim açısından verimli geçecek. Merkür'ün etkisiyle yazışma veya sunum gibi işlerde başarılı olabilirsiniz.
+
+Yengeç Günlük Yorum: Bugün duygusal bir konuda içgüdülerinize güvenmek doğru sonuç verecek. Aile ile vakit geçirmek size iyi gelecek.
+
+Yengeç Haftalık Yorum: Bu hafta ev ile ilgili konular gündeme gelebilir. Yakın çevrenizle duygusal bağlarınızı güçlendirme fırsatı bulacaksınız.
+
+Yengeç Aylık Yorum: Bu ay Ay'ın etkisiyle duygusal iniş çıkışlar yaşanabilir. Kendinize ve sevdiklerinize zaman ayırmak önemli olacak.
+
+Aslan Günlük Yorum: Bugün yaratıcılığınızı sergilemek için harika bir fırsat doğabilir. Kendinize güvenin ve cesur adımlar atın.
+
+Aslan Haftalık Yorum: Bu hafta ilgi odağı olabileceğiniz sosyal etkinlikler öne çıkacak. İş hayatında liderlik vasıflarınız takdir görecek.
+
+Aslan Aylık Yorum: Bu ay Güneş'in etkisiyle özgüveniniz artacak. Yeni bir hobi veya sanatsal uğraş size mutluluk verebilir.
+
+Başak Günlük Yorum: Bugün planlarınızı gözden geçirmek ve küçük hataları düzeltmek için uygun bir zaman. Detaylara dikkat etmek işinize yarayacak.
+
+Başak Haftalık Yorum: Bu hafta iş yükünüz artabilir, düzenli çalışmak stresi azaltacak. Sağlığınıza dikkat etmeniz gereken bir dönem.
+
+Başak Aylık Yorum: Bu ay analitik yeteneklerinizi kullanmanız gereken durumlarla karşılaşabilirsiniz. Merkür'ün etkisiyle organizasyon becerileriniz öne çıkacak.
+
+Terazi Günlük Yorum: Bugün bir ilişkide denge kurmanız gereken bir durumla karşılaşabilirsiniz. Diplomatik yaklaşımınız size yardımcı olacak.
+
+Terazi Haftalık Yorum: Bu hafta sosyal ilişkileriniz ön planda olacak. İş ortaklıkları veya iş birlikleri gündeme gelebilir.
+
+Terazi Aylık Yorum: Bu ay Venüs'ün etkisiyle romantik hayatınızda güzel gelişmeler yaşanabilir. Estetik ve sanatla ilgili konulara ilginiz artacak.
+
+Akrep Günlük Yorum: Bugün gizli kalmış bir gerçek ortaya çıkabilir, sabırlı olun. Derin bir konuşma güven bağınızı güçlendirebilir.
+
+Akrep Haftalık Yorum: Bu hafta duygusal yoğunluk artabilir, kontrolü elden bırakmamaya çalışın. Finansal konularda dikkatli olmanız gereken bir dönem.
+
+Akrep Aylık Yorum: Bu ay Plüton'un etkisiyle önemli bir dönüşüm süreci yaşanabilir. Geçmişle yüzleşme ve bırakma teması ön planda olacak.
+
+Yay Günlük Yorum: Bugün yeni bir şeyler öğrenme isteğiniz artabilir. Bir kursa veya kitaba yönelmek size ilham verebilir.
+
+Yay Haftalık Yorum: Bu hafta seyahat veya kısa yolculuk fırsatları doğabilir. Felsefi ve dini konulara ilginiz artabilir.
+
+Yay Aylık Yorum: Bu ay Jüpiter'in etkisiyle şans ve genişleme teması öne çıkacak. Eğitim veya yurt dışı bağlantılı konular gündeme gelebilir.
+
+Oğlak Günlük Yorum: Bugün iş hayatınızda sabırlı çalışmanızın karşılığını almaya başlayabilirsiniz. Disiplinli tutumunuz takdir görecek.
+
+Oğlak Haftalık Yorum: Bu hafta kariyer hedefleriniz konusunda somut adımlar atabilirsiniz. Otorite figürleriyle olumlu bir etkileşim yaşanabilir.
+
+Oğlak Aylık Yorum: Bu ay Satürn'ün etkisiyle sorumluluklarınız artabilir, ancak bu uzun vadede başarı getirecek. Kariyerde önemli bir dönüm noktası yaşanabilir.
+
+Kova Günlük Yorum: Bugün alışılmadık bir fikir aklınıza gelebilir, onu paylaşmaktan çekinmeyin. Arkadaş çevrenizle keyifli bir zaman geçirebilirsiniz.
+
+Kova Haftalık Yorum: Bu hafta toplumsal projeler veya grup çalışmaları gündeme gelebilir. Yenilikçi fikirleriniz takdir görecek.
+
+Kova Aylık Yorum: Bu ay Uranüs'ün etkisiyle beklenmedik gelişmeler yaşanabilir. Özgürlük ve bağımsızlık teması ön planda olacak.
+
+Balık Günlük Yorum: Bugün yaratıcı bir projeye zaman ayırmak ruh halinizi olumlu etkileyecek. Sezgilerinize güvenmek doğru sonuç verecek.
+
+Balık Haftalık Yorum: Bu hafta duygusal ve sanatsal konulara ilginiz artacak. Yalnız kalıp kendinizi dinlemeniz gereken anlar olabilir.
+
+Balık Aylık Yorum: Bu ay Neptün'ün etkisiyle hayal gücünüz ve sezgileriniz güçlenecek. Ruhani konulara veya sanata yönelmek size iyi gelebilir.
+
+1. Evde Güneş: 1. ev kişinin kimliğini, görünüşünü ve hayata duruşunu gösterir. Güneş burada güçlü bir ego, özgüven ve liderlik enerjisi yaratır. Kişi kendini ifade etmeye ve fark edilmeye önem verir. Kişilik parlak ve dikkat çekicidir.
+
+2. Evde Güneş: 2. ev para, değerler ve sahip olunanları temsil eder. Güneş burada maddi güvenlik ve özdeğer konularını öne çıkarır. Kişi kazanç elde etme ve kendi değerini ortaya koyma konusunda istekli olur.
+
+3. Evde Güneş: 3. ev iletişim, kardeşler ve yakın çevre ile ilgilidir. Güneş burada konuşkan, meraklı ve zihinsel olarak aktif bir yapı getirir. Öğrenme ve fikirlerini paylaşma ihtiyacı güçlüdür.
+
+4. Evde Güneş: 4. ev aile, yuva ve kökleri temsil eder. Güneş burada aile bağlarını, anne-baba etkisini ve ev hayatını öne çıkarır. Kişi yuvasında güvende hissetmek ve ailesiyle bağ kurmak ister.
+
+5. Evde Güneş: 5. ev aşk, çocuklar, yaratıcılık ve eğlenceyi gösterir. Güneş burada romantik, yaratıcı ve dikkat çekici bir enerji yaratır. Sahne, sanat veya çocuklarla ilgili konular önemli hale gelir.
+
+6. Evde Güneş: 6. ev iş, sağlık ve günlük rutinleri temsil eder. Güneş burada çalışkanlık, hizmet ve beden sağlığı konularını güçlendirir. Kişi düzenli çalışarak kendini ifade eder.
+
+7. Evde Güneş: 7. ev ortaklıklar, evlilik ve ilişkileri gösterir. Güneş burada partner üzerinden kimlik bulma eğilimi yaratır. İlişkilerde eşitlik ve karşılıklı saygı önemlidir.
+
+8. Evde Güneş: 8. ev kriz, dönüşüm, ortak kaynaklar ve derin bağları temsil eder. Güneş burada yoğun, tutkulu ve dönüştürücü bir enerji getirir. Psikolojik derinlik ve paylaşım konuları öne çıkar.
+
+9. Evde Güneş: 9. ev inanç, yüksek öğrenim, seyahat ve felsefeyi gösterir. Güneş burada geniş bakış açısı, macera ve anlam arayışı yaratır. Yabancı kültürler veya yüksek eğitim önemli olabilir.
+
+10. Evde Güneş: 10. ev kariyer, sosyal statü ve hedefleri temsil eder. Güneş burada başarı, tanınma ve mesleki yükseliş enerjisi getirir. Kişi toplumda görünür olmayı ve başarılı olmayı ister.
+
+11. Evde Güneş: 11. ev arkadaşlar, gruplar, idealler ve gelecek planlarını gösterir. Güneş burada sosyal çevre, dostluklar ve ortak hedefler üzerinden kendini ifade eder.
+
+12. Evde Güneş: 12. ev bilinçaltı, yalnızlık, ruhsallık ve gizli düşmanları temsil eder. Güneş burada daha içe dönük, hassas ve ruhani bir yapı yaratır. Kendini gizleme veya fedakârlık temaları görülebilir.
+
+1. Evde Ay: 1. evde Ay duygusal, hassas ve değişken bir kişilik yaratır. Kişi ruh haline göre davranabilir, çevreden kolay etkilenir. Korunma ve güvenlik ihtiyacı yüksektir.
+
+2. Evde Ay: 2. evde Ay maddi güvenlik ve duygusal konfor arayışını güçlendirir. Para ve sahip olunanlar duygusal huzurla bağlantılıdır. Beslenme ve biriktirme eğilimi görülebilir.
+
+3. Evde Ay: 3. evde Ay iletişimde duygusal yaklaşım getirir. Kardeşlerle bağ güçlü olabilir, konuşurken hislerini yansıtır. Zihin duygularla iç içedir.
+
+4. Evde Ay: 4. ev Ay'ın doğal evidir. Aile, yuva ve anne ile bağ çok kuvvetlidir. Kişi evinde güvende hissetmek ister, geçmişe ve köklere bağlıdır.
+
+5. Evde Ay: 5. evde Ay romantik, çocuk seven ve yaratıcı bir duygusal yapı getirir. Aşk ve eğlence duygusal tatmin sağlar. Çocuklarla bağ özel olabilir.
+
+6. Evde Ay: 6. evde Ay sağlık, iş ve günlük düzen konularında duygusal hassasiyet yaratır. Stres bedeni etkileyebilir, hizmet etmek yoluyla huzur bulunur.
+
+7. Evde Ay: 7. evde Ay ilişkilerde duygusal bağ ve güvenlik arar. Partner üzerinden beslenmek ister, evlilik veya ortaklık önemli hale gelir.
+
+8. Evde Ay: 8. evde Ay yoğun, derin ve bazen kıskanç duygular yaratır. Paylaşım, kriz ve dönüşüm temaları duygusal hayatı etkiler.
+
+9. Evde Ay: 9. evde Ay inanç, seyahat ve yüksek öğrenim konularında duygusal bağ kurar. Yabancı kültürler veya ruhsal arayış huzur verebilir.
+
+10. Evde Ay: 10. evde Ay kariyer ve toplum önünde duygusal dalgalanmalar yaratabilir. Meslek seçiminde anne etkisi veya güvenlik arayışı görülebilir.
+
+11. Evde Ay: 11. evde Ay arkadaşlıklar ve gruplar üzerinden duygusal destek arar. Sosyal çevre aile gibi hissedilebilir.
+
+12. Evde Ay: 12. evde Ay çok hassas, empatik ve içe dönük bir yapı getirir. Bilinçaltı güçlüdür, yalnız kalmaya veya ruhsal konulara yönelebilir.
+
+1. Evde Merkür: 1. evde Merkür zeki, konuşkan ve meraklı bir kişilik yaratır. İletişim becerisi yüksektir, fikirlerini net ifade eder.
+
+2. Evde Merkür: 2. evde Merkür para, değerler ve ticaret konularında zihinsel odaklanma getirir. Pratik düşünce ve kazanç planları öne çıkar.
+
+3. Evde Merkür: 3. ev Merkür'ün doğal alanıdır. İletişim, öğrenme, yazma ve kısa seyahatler güçlenir. Zihin hızlı ve esnektir.
+
+4. Evde Merkür: 4. evde Merkür aile içi iletişim ve ev konularında zihinsel meşguliyet yaratır. Geçmiş ve köklerle ilgili düşünceler sık gelir.
+
+5. Evde Merkür: 5. evde Merkür yaratıcı ifade, flört ve eğlenceli iletişimi güçlendirir. Yazı, oyun veya sahne ile ilgili yetenekler olabilir.
+
+6. Evde Merkür: 6. evde Merkür iş, sağlık ve detay konularında analitik düşünce getirir. Düzenli çalışma ve problem çözme becerisi yüksektir.
+
+7. Evde Merkür: 7. evde Merkür ilişkilerde diyalog ve anlaşmayı öne çıkarır. Partnerle iletişim kritik önem taşır.
+
+8. Evde Merkür: 8. evde Merkür derin araştırma, kriz ve ortak kaynaklar konularında zihinsel odaklanma yaratır. Gizli bilgilere ilgi duyulabilir.
+
+9. Evde Merkür: 9. evde Merkür yüksek öğrenim, felsefe ve uzak seyahatlerle ilgili düşünce yapısı getirir. Anlam arayışı güçlüdür.
+
+10. Evde Merkür: 10. evde Merkür kariyer ve toplum önünde iletişim becerisini öne çıkarır. Meslek seçiminde yazı, konuşma veya ticaret etkili olabilir.
+
+11. Evde Merkür: 11. evde Merkür arkadaşlıklar, gruplar ve idealler konusunda zihinsel bağ kurar. Sosyal çevrede fikir alışverişi önemlidir.
+
+12. Evde Merkür: 12. evde Merkür bilinçaltı, rüyalar ve gizli düşüncelerle bağlantılıdır. İletişim bazen dolaylı veya içsel olabilir.
+
+1. Evde Venüs: 1. evde Venüs çekici, zarif ve uyumlu bir kişilik yaratır. Estetik ve beğenilme ihtiyacı yüksektir.
+
+2. Evde Venüs: 2. ev Venüs'ün doğal alanlarından biridir. Para, güzellik ve konfor arayışı güçlenir. Maddi zevklere düşkünlük görülebilir.
+
+3. Evde Venüs: 3. evde Venüs iletişimde tatlı dil, kardeşlerle uyum ve estetik ifade getirir. Yazı veya konuşmada zarafet vardır.
+
+4. Evde Venüs: 4. evde Venüs yuva, aile ve duygusal konfor arayışını güçlendirir. Güzel bir ev ve huzurlu aile ortamı önemlidir.
+
+5. Evde Venüs: 5. evde Venüs aşk, sanat ve eğlence konularında güçlü bir enerji yaratır. Romantik ve yaratıcı yönler öne çıkar.
+
+6. Evde Venüs: 6. evde Venüs iş ortamında uyum, sağlıkta denge ve hizmette güzellik arayışı getirir.
+
+7. Evde Venüs: 7. ev Venüs'ün doğal evidir. İlişkiler, evlilik ve ortaklıklarda uyum, güzellik ve denge aranır.
+
+8. Evde Venüs: 8. evde Venüs tutkulu bağlar, ortak kaynaklar ve derin yakınlık temalarını güçlendirir.
+
+9. Evde Venüs: 9. evde Venüs yabancı kültürler, sanat ve yüksek değerlerle ilgili zevkler getirir. Seyahat veya eğitimde estetik arayış olabilir.
+
+10. Evde Venüs: 10. evde Venüs kariyerde sanat, güzellik veya ilişkiler üzerinden başarı getirebilir. Sosyal imaj önemlidir.
+
+11. Evde Venüs: 11. evde Venüs arkadaşlıklar ve gruplarda uyum arar. Sosyal çevre zevkli ve destekleyicidir.
+
+12. Evde Venüs: 12. evde Venüs gizli aşklar, fedakârlık ve ruhsal güzellik temalarını öne çıkarır. Duygular bazen saklı kalır.
+
+1. Evde Mars: 1. evde Mars enerjik, iddialı ve mücadeleci bir kişilik yaratır. Girişkenlik ve rekabet gücü yüksektir.
+
+2. Evde Mars: 2. evde Mars para kazanma ve değerlerini savunma konusunda kararlılık getirir. Maddi konular için mücadele edebilir.
+
+3. Evde Mars: 3. evde Mars iletişimde keskinlik, tartışma ve hızlı düşünce yaratır. Kardeşlerle rekabet olabilir.
+
+4. Evde Mars: 4. evde Mars aile içinde gerilim veya koruma içgüdüsü yaratabilir. Yuva için mücadele etme eğilimi vardır.
+
+5. Evde Mars: 5. evde Mars tutkulu aşk, yaratıcı enerji ve risk alma cesareti getirir. Spor veya sahne ile ilgili faaliyetler güçlenir.
+
+6. Evde Mars: 6. evde Mars işte çalışkanlık, sağlıkta dikkat ve günlük mücadele enerjisi yaratır.
+
+7. Evde Mars: 7. evde Mars ilişkilerde çekişme veya tutkulu ortaklıklar getirebilir. Partnerle dinamik bir bağ kurulur.
+
+8. Evde Mars: 8. evde Mars yoğun arzu, kriz yönetimi ve derin dönüşüm enerjisi yaratır. Tutkulu ve güçlü bir yapı görülür.
+
+9. Evde Mars: 9. evde Mars inançları savunan, maceracı ve cesur bir yapı getirir. Uzak seyahatler veya yüksek hedefler için mücadele eder.
+
+10. Evde Mars: 10. evde Mars kariyerde hırs, rekabet ve liderlik enerjisi yaratır. Mesleki başarı için kararlılık yüksektir.
+
+11. Evde Mars: 11. evde Mars arkadaşlıklar ve gruplar içinde aktif, bazen rekabetçi bir rol üstlenir.
+
+12. Evde Mars: 12. evde Mars öfke ve enerjiyi içe yöneltebilir. Gizli mücadeleler veya ruhsal savaşlar teması görülebilir.
+
+1. Evde Jüpiter: 1. evde Jüpiter iyimser, güven dolu ve geniş bir kişilik yaratır. Şans kişinin kendisiyle birlikte gelir.
+
+2. Evde Jüpiter: 2. evde Jüpiter maddi bolluk, kazanç artışı ve cömertlik getirir. Para konusunda şanslı gelişmeler olabilir.
+
+3. Evde Jüpiter: 3. evde Jüpiter öğrenme, iletişim ve yakın çevrede genişleme yaratır. Kardeşler veya eğitim fayda sağlayabilir.
+
+4. Evde Jüpiter: 4. evde Jüpiter aileden destek, yuva ile ilgili şans ve içsel bolluk getirir. Anne ile ilişki genellikle olumludur.
+
+5. Evde Jüpiter: 5. evde Jüpiter aşk, çocuklar ve yaratıcılık alanında şans ve genişleme yaratır. Hayattan keyif alma güçlüdür.
+
+6. Evde Jüpiter: 6. evde Jüpiter iş ve sağlık konularında olumlu gelişmeler, yardımlaşma ve büyüme getirir.
+
+7. Evde Jüpiter: 7. evde Jüpiter evlilik ve ortaklıklarda şans, destek ve büyüme vaat eder. Eş cömert veya yabancı kökenli olabilir.
+
+8. Evde Jüpiter: 8. evde Jüpiter ortak kaynaklar, miras veya krizlerden sonra büyüme fırsatları yaratır.
+
+9. Evde Jüpiter: 9. ev Jüpiter'in doğal alanıdır. Yüksek öğrenim, seyahat, inanç ve felsefede genişleme ve şans getirir.
+
+10. Evde Jüpiter: 10. evde Jüpiter kariyerde yükselme, tanınma ve toplumsal başarı enerjisi yaratır.
+
+11. Evde Jüpiter: 11. evde Jüpiter arkadaşlıklar, gruplar ve idealler üzerinden şans ve destek getirir.
+
+12. Evde Jüpiter: 12. evde Jüpiter ruhsal koruma, gizli yardımlar ve içsel büyüme temalarını güçlendirir.
+
+1. Evde Satürn: 1. evde Satürn ciddi, sorumlu ve olgun bir kişilik yaratır. Öz disiplin ve temkinlilik öne çıkar.
+
+2. Evde Satürn: 2. evde Satürn para ve değerler konusunda kısıtlama veya ağır sorumluluk getirebilir. Sabırla birikim yapılır.
+
+3. Evde Satürn: 3. evde Satürn iletişimde ciddiyet, öğrenmede disiplin ve kardeşlerle mesafeli bağ yaratabilir.
+
+4. Evde Satürn: 4. evde Satürn aile ve yuva konularında sorumluluk, soğukluk veya erken olgunlaşma getirebilir.
+
+5. Evde Satürn: 5. evde Satürn aşk ve yaratıcılıkta temkinli yaklaşım, çocuklarla ilgili sorumluluk teması yaratır.
+
+6. Evde Satürn: 6. evde Satürn iş ve sağlıkta disiplin, ağır çalışma ve dikkat gerekliliği getirir.
+
+7. Evde Satürn: 7. evde Satürn ilişkilerde ciddiyet, gecikme veya olgun partner teması yaratır. Evlilik sorumluluk gerektirir.
+
+8. Evde Satürn: 8. evde Satürn kriz, ortak kaynaklar ve dönüşüm konularında ağır dersler ve sabır ister.
+
+9. Evde Satürn: 9. evde Satürn inanç, yüksek öğrenim ve seyahat konularında disiplinli ve temkinli yaklaşım getirir.
+
+10. Evde Satürn: 10. ev Satürn'ün doğal alanıdır. Kariyerde yavaş ama kalıcı yükselme, sorumluluk ve başarı getirir.
+
+11. Evde Satürn: 11. evde Satürn arkadaşlıklar ve gruplarda seçici, ciddi ve uzun vadeli bağlar yaratır.
+
+12. Evde Satürn: 12. evde Satürn bilinçaltı korkular, yalnızlık ve ruhsal dersler temalarını güçlendirir.
+
+1. Evde Uranüs: 1. evde Uranüs özgün, bağımsız ve sıra dışı bir kişilik yaratır. Özgürlük ihtiyacı çok yüksektir.
+
+2. Evde Uranüs: 2. evde Uranüs para ve değerler konusunda beklenmedik değişimler, yenilikçi kazanç yolları getirir.
+
+3. Evde Uranüs: 3. evde Uranüs iletişimde orijinallik, ani fikirler ve alışılmadık öğrenme tarzı yaratır.
+
+4. Evde Uranüs: 4. evde Uranüs aile ve yuva konularında beklenmedik değişiklikler, bağımsız yaşam isteği getirir.
+
+5. Evde Uranüs: 5. evde Uranüs aşk ve yaratıcılıkta özgür, deneysel ve sürprizli yaklaşımlar yaratır.
+
+6. Evde Uranüs: 6. evde Uranüs iş ve sağlıkta alışılmadık yöntemler, ani değişiklikler ve teknoloji etkisi getirir.
+
+7. Evde Uranüs: 7. evde Uranüs ilişkilerde özgürlük ihtiyacı, beklenmedik ortaklıklar veya ani başlangıç-bitişler yaratır.
+
+8. Evde Uranüs: 8. evde Uranüs kriz ve dönüşüm konularında ani değişimler, yenilikçi yaklaşımlar getirir.
+
+9. Evde Uranüs: 9. evde Uranüs inanç, seyahat ve yüksek öğrenimde özgür düşünce ve sıra dışı deneyimler yaratır.
+
+10. Evde Uranüs: 10. evde Uranüs kariyerde orijinal yollar, ani yükseliş veya değişim teması getirir.
+
+11. Evde Uranüs: 11. evde Uranüs arkadaşlıklar ve gruplarda yenilikçi, bağımsız ve gelecek odaklı bağlar yaratır.
+
+12. Evde Uranüs: 12. evde Uranüs bilinçaltı ve ruhsal alanda ani farkındalıklar, özgürleşme isteği getirir.
+
+1. Evde Neptün: 1. evde Neptün hassas, hayalperest ve empatik bir kişilik yaratır. Sınırlar belirsiz olabilir.
+
+2. Evde Neptün: 2. evde Neptün para ve değerler konusunda belirsizlik, idealist yaklaşım veya fedakârlık getirebilir.
+
+3. Evde Neptün: 3. evde Neptün iletişimde sezgisel, sanatsal veya bazen karışık bir ifade yaratır.
+
+4. Evde Neptün: 4. evde Neptün aile ve yuva konularında idealize etme, fedakârlık veya belirsizlik teması getirir.
+
+5. Evde Neptün: 5. evde Neptün aşk ve yaratıcılıkta romantik, sanatsal ve idealist bir enerji yaratır.
+
+6. Evde Neptün: 6. evde Neptün iş ve sağlıkta sezgisel yaklaşım, fedakârlık veya belirsizlik getirebilir.
+
+7. Evde Neptün: 7. evde Neptün ilişkilerde idealize etme, fedakârlık veya hayal kırıklığı riski yaratır.
+
+8. Evde Neptün: 8. evde Neptün kriz, paylaşım ve dönüşüm konularında ruhsal ve sezgisel derinlik getirir.
+
+9. Evde Neptün: 9. evde Neptün inanç, ruhsallık ve yüksek arayışlarda güçlü sezgi ve idealizm yaratır.
+
+10. Evde Neptün: 10. evde Neptün kariyerde sanat, yardım veya ruhsal alanlara yönelim, belirsiz hedefler getirebilir.
+
+11. Evde Neptün: 11. evde Neptün arkadaşlıklar ve ideallerde idealist, hayalperest ve fedakâr bağlar yaratır.
+
+12. Evde Neptün: 12. ev Neptün'ün doğal alanıdır. Bilinçaltı, ruhsallık, fedakârlık ve sınırların erimesi temalarını güçlendirir.
+
+1. Evde Plüton: 1. evde Plüton yoğun, güçlü ve dönüştürücü bir kişilik yaratır. Kontrol ve derinlik ihtiyacı yüksektir.
+
+2. Evde Plüton: 2. evde Plüton para ve değerler konusunda güç mücadelesi, kriz ve yeniden doğuş teması getirir.
+
+3. Evde Plüton: 3. evde Plüton iletişimde keskinlik, derin araştırma ve güçlü ikna yeteneği yaratır.
+
+4. Evde Plüton: 4. evde Plüton aile ve yuva konularında yoğun bağlar, kriz ve kökten dönüşüm getirebilir.
+
+5. Evde Plüton: 5. evde Plüton aşk ve yaratıcılıkta tutkulu, yoğun ve dönüştürücü deneyimler yaratır.
+
+6. Evde Plüton: 6. evde Plüton iş ve sağlıkta derin değişim, kriz ve yeniden yapılanma enerjisi getirir.
+
+7. Evde Plüton: 7. evde Plüton ilişkilerde güç dinamikleri, yoğun bağlar ve dönüştürücü ortaklıklar yaratır.
+
+8. Evde Plüton: 8. ev Plüton'un doğal alanıdır. Kriz, ölüm-yeniden doğuş, ortak kaynaklar ve derin dönüşümü güçlendirir.
+
+9. Evde Plüton: 9. evde Plüton inanç, felsefe ve yüksek arayışlarda kökten değişim ve derinlik yaratır.
+
+10. Evde Plüton: 10. evde Plüton kariyerde güç, kontrol ve büyük dönüşüm teması getirir. Toplumsal etki güçlü olabilir.
+
+11. Evde Plüton: 11. evde Plüton arkadaşlıklar ve gruplarda yoğun bağlar, güç mücadeleleri veya kolektif dönüşüm yaratır.
+
+12. Evde Plüton: 12. evde Plüton bilinçaltı, gizli korkular ve ruhsal dönüşüm temalarını çok güçlü hale getirir.
